@@ -46,6 +46,14 @@ Unsupervised Learning Techniques
 
 ---
 
+## 📖 Reference
+
+This repo is based on:
+
+Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition) by Aurélien Géron and O’Reilly Media.
+
+---
+
 ## 🛠️ Installation & Setup
 ```bash
 Clone the repository:
@@ -68,9 +76,3 @@ Open Jupyter Lab or Notebook to explore the chapters:
 jupyter notebook
 
 ---
-
-## 📖 Reference
-
-This repo is based on:
-
-Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition) by Aurélien Géron and O’Reilly Media.
