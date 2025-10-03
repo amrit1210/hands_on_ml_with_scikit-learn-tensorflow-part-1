@@ -47,34 +47,24 @@ Unsupervised Learning Techniques
 ---
 
 ## 🛠️ Installation & Setup
+```bash
 Clone the repository:
 
 git clone https://github.com/<your-username>/hands_on_ml_with_scikit-learn&tensorflow-part-1.git
-
 cd hands_on_ml_with_scikit-learn&tensorflow-part-1
-
----
 
 ## Create and activate a virtual environment (recommended):
 
 python -m venv venv
-
 source venv/bin/activate    # Mac/Linux
-
 venv\Scripts\activate       # Windows
 
----
-
 ## Install dependencies:
-
 pip install -r requirements.txt
-
----
 
 ## 📓 Usage
 
 Open Jupyter Lab or Notebook to explore the chapters:
-
 jupyter notebook
 
 ---
