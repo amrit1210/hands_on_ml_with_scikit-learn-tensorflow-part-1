@@ -1,10 +1,15 @@
-# hands_on_ml_with_scikit-learn-tensorflow-part-1
+# Hands-On Machine Learning with Scikit-Learn & TensorFlow (Part 1)
 Summary and Experimental Jupyter Notebooks for ML
 
-This repository contains my notes, code implementations, and exercises from the book "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron.
-It focuses on Part 1: The Fundamentals of Machine Learning, covering essential ML concepts, workflows, and practical applications using Scikit-Learn and TensorFlow.
+This repository contains my notes, code implementations, and exercises from the book  
+**"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron**.  
 
-Repository Structure
+It focuses on **Part 1: The Fundamentals of Machine Learning**, covering essential ML concepts, workflows, and practical applications using Scikit-Learn and TensorFlow.
+
+---
+
+## 📂 Repository Structure
+
 hands_on_ml_with_scikit-learn&tensorflow-part-1/
 │── notebooks/         # Jupyter notebooks for each chapter
 │── scripts/           # Python scripts for examples & exercises
@@ -12,7 +17,9 @@ hands_on_ml_with_scikit-learn&tensorflow-part-1/
 │── images/            # Supporting figures/plots
 │── README.md          # Project overview (this file)
 
-🚀 Topics Covered
+---
+
+## 🚀 Topics Covered
 
 Introduction to Machine Learning
 End-to-End Machine Learning Project
@@ -23,27 +30,45 @@ Decision Trees, Random Forests, and Ensemble Methods
 Dimensionality Reduction
 Unsupervised Learning Techniques
 
-🛠️ Installation & Setup
+---
+
+## 🛠️ Installation & Setup
 Clone the repository:
+
 #!/bin/bash
+
 git clone https://github.com/<your-username>/hands_on_ml_with_scikit-learn&tensorflow-part-1.git
+
 cd hands_on_ml_with_scikit-learn&tensorflow-part-1
 
-Create and activate a virtual environment (recommended):
+---
+
+## Create and activate a virtual environment (recommended):
 #!/bin/bash
+
 python -m venv venv
+
 source venv/bin/activate    # Mac/Linux
+
 venv\Scripts\activate       # Windows
 
-Install dependencies:
+---
+
+## Install dependencies:
 #!/bin/bash
 pip install -r requirements.txt
 
-📓 Usage
+---
+
+## 📓 Usage
 
 Open Jupyter Lab or Notebook to explore the chapters:
+
 #!/bin/bash
+
 jupyter notebook
+
+---
 
 📖 Reference
 
