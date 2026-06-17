@@ -58,7 +58,7 @@ Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition) by
 ```bash
 Clone the repository:
 
-git clone https://github.com/amrit1210/hands_on_ml_with_scikit-learn&tensorflow-part-1.git
+git clone https://github.com/amrit1210/hands_on_ml_with_scikit-learn-tensorflow-part-1.git
 cd hands_on_ml_with_scikit-learn&tensorflow-part-1
 
 ## Create and activate a virtual environment (recommended):
